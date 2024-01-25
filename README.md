@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My App:
+App:
 
 * Keyla - Tesla bluetooth keyfob
 
@@ -8,7 +8,10 @@ My App:
 
 [![keyla-android](https://github.com/dos1in/dos1in/assets/981214/caec97cb-0f4c-4fbf-978a-5de3bd573e91)](https://play.google.com/store/apps/details?id=com.doslin.keyla)
 
-My Idea Plugin: 
+Idea Plugin: 
 
 * [BuildBoot Pro](https://plugins.jetbrains.com/plugin/20350-buildboot-pro)
 
+---
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=dos1in&show_icons=true&hide_border=true)](https://doslin.com)
