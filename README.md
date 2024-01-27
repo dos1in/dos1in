@@ -14,4 +14,4 @@ Idea Plugin:
 
 ---
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=dos1in&show_icons=true&hide_border=true)](https://doslin.com)
+[![github stats](https://github-readme-stats.vercel.app/api?username=dos1in&show_icons=true&hide_border=true&hide_title=true)](https://doslin.com)
