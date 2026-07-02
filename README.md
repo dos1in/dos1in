@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm passionate about building innovative and user-friendly applications across various platforms and technologies. Below are the areas I specialize in or am interested in:
+I’m passionate about creating innovative, practical, and user-friendly applications across multiple platforms and technologies.
+
+My apps and projects are available at **https://doslin.com**.
+
+Here are some of the areas I specialize in or am actively exploring:
 
 ## Platforms
 
